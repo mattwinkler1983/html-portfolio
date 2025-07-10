@@ -12,14 +12,12 @@ color: rgb(0, 255, 55);
 }
 
 p {
-    color: white;
-    text-align: right;
+    color: blue;
+    text-align: left;
     font-weight: 700; 
 
 }
-p { background-color: black
-;
-}
+
 /*
 *button:hover {
     background-color: red;
@@ -47,4 +45,15 @@ a {
 .linkOne:hover { 
     text-decoration: underline;
     color: red;
+}
+h1::first-letter {
+    color: Red;
+    font-size: 130px;
+}
+h2::first-letter {
+    color: Red;
+    font-size: 130px;
+}
+p::selection { 
+    background-color: Yellow
 }
