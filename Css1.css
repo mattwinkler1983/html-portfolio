@@ -13,11 +13,13 @@ color: rgb(0, 255, 55);
 
 p {
     color: white;
-    text-align: right;
-    font-weight: 700; 
+    
+    font-weight: 1400; 
 
 }
-p { background-color: black
+p { background-color: black;
+    text-align: left;
+    
 ;
 }
 /*
@@ -46,5 +48,12 @@ a {
 }
 .linkOne:hover { 
     text-decoration: underline;
-    color: red;
+    color: red;S
+}
+
+/* remember to put "#" in front of colors if you are using hexadeximal */
+
+
+.Third:nth-of-type(2n){
+    background-color: gray;
 }
