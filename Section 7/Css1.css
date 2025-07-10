@@ -60,3 +60,8 @@ p::selection {
 /*the order you set things is important.  So for example if you have two h1s matters.  The second one wins.  So if you have H1 as color blue and then another h1 as color purple, purple wins.  
 
 Also if you have two different style sheets.  The second listed style sheet in HTML matters.  See video 79. 
+*/
+button:hover {
+    background-color: olive;
+    font-size: 10px;
+}
