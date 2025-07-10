@@ -20,7 +20,31 @@ p {
 p { background-color: black
 ;
 }
-button:hover {
-    background-color: #B43A3E;
-    color: white
+/*
+*button:hover {
+    background-color: red;
+    color: white;
+}   Changes the color of all buttons when you hover over it to red color.   */
+.button-primary:hover {
+    background-color: red;
+    color: white;
+}
+/*post is the class.  Don't forget the "." */
+
+.Secondary:hover {
+    background-color: purple;
+    color: pink;
+}
+.Third:hover {
+    background-color: green;
+    color: yellow;
+}
+
+
+a {
+    text-decoration: none;
+}
+.linkOne:hover { 
+    text-decoration: underline;
+    color: red;
 }
