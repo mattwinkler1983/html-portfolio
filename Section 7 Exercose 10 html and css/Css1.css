@@ -4,6 +4,11 @@ h1 {
     font-weight: normal;
 }
 
+a:hover {
+    color:orange
+}
+
+
 
 h2 { 
 
@@ -20,7 +25,4 @@ p {
 p { background-color: black
 ;
 }
-button:hover {
-    background-color: #B43A3E;
-    color: white
-}
+
