@@ -23,20 +23,10 @@ p {
     background-color: red;
     color: white;
 }   Changes the color of all buttons when you hover over it to red color.   */
-.button-primary:hover {
-    background-color: red;
-    color: white;
-}
+
 /*post is the class.  Don't forget the "." */
 
-.Secondary:hover {
-    background-color: purple;
-    color: pink;
-}
-.Third:hover {
-    background-color: green;
-    color: yellow;
-}
+
 
 
 a {
@@ -61,6 +51,18 @@ p::selection {
 
 Also if you have two different style sheets.  The second listed style sheet in HTML matters.  See video 79. 
 */
+.button-primary:hover {
+    background-color: red;
+    color: white;
+}
+.Secondary:hover {
+    background-color: purple;
+    color: pink;
+}
+.Third:hover {
+    background-color: green;
+    color: yellow;
+}
 button:hover {
     background-color: olive;
     font-size: 10px;
