@@ -27,3 +27,14 @@ body {
 #two {
     text-align: center;
 }
+#class1 {
+    font-size: small;
+}
+a { 
+    color: Green;
+}
+a:hover {
+color: red;
+    font-weight: bold;
+}
+    
