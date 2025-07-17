@@ -6,6 +6,24 @@ body {
 #one {
     text-align: center;
     text-decoration: underline;
-    text-decoration-thickness: 6px;
+    text-decoration-thickness: 12px;
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    margin: 20px;
+    background-color: red;
+    
 
+}
+#oneA {
+    text-align: center;
+    text-decoration-thickness: 6px;
+    padding: 20px;
+    background-color: red;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#two {
+    text-align: center;
 }
