@@ -1,0 +1,21 @@
+section {
+background-color: #6d6875;
+width: 4000px; 
+height: 800pz; 
+}
+div { 
+    background-color: #e4989b;
+    width: 70%;
+    height: 20%;
+}
+h1 { 
+    font-size: 40px;
+    border: 1px solid black;
+    line-height: 200%;
+
+    /*This "line-height" percentage is relative to the h1 font-size of 40px.  So in this instance it changes it to 80px.  */
+}
+
+/* Percentages are always relative to some other value. 
+Sometimes its a valud from the parent and other times its a valude from the element itself.  */
+
