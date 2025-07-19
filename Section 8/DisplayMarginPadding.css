@@ -27,6 +27,7 @@ div {
     background-color:olivedrab;
     border: 5px solid black;
     display: inline-block; 
+    margin: 50px;
 }
 /* By putting the "display: inline; on h1 we change the block element of h1 to inline.  
 
