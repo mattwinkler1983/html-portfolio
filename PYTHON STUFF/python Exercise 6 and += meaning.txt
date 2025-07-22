@@ -44,3 +44,20 @@ Copy the code
 x = 5
 x += 3  # Equivalent to x = x + 3
 print(x)  # Output: 8
+
+you can do this with names:
+name = "dave"
+name += " winkler"
+print(name)   This will show dave winkler
+
+
+You can do this with numbers:
+
+people = 99
+people += 1
+print(people)   This will show 100.  
+
+people = 100
+people -=10
+print(people)  This will show 90.
+you can do multiplier *.  subtraction.  addition. division.  There are others. 
