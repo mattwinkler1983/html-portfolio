@@ -47,3 +47,6 @@ top margin is 25px
 right margin is 50px
 bottom margin is 75px
 left margin is 100px
+
+If you put in a value such as:
+The auto value puts the element to the center within its container.  
