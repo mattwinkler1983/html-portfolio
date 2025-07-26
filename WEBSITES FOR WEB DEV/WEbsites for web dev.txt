@@ -1,0 +1,5 @@
+FONTS     https://fonts.google.com/   
+
+IMAGES/ BACKGROUNDS    https://unsplash.com/
+
+CSS https://developer.mozilla.org/en-US/docs/Web/CSS/
