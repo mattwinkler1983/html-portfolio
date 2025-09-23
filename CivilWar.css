@@ -30,6 +30,9 @@ body {
 #class1 {
     font-size: small;
 }
+.underline-text {
+    text-decoration: underline;
+}
 a { 
     color: Green;
 }
