@@ -1,0 +1,9 @@
+header {
+    font-size: 30px;
+    color: rgb(128, 0, 107);
+}
+
+#dislikes {
+    color: red;
+    font-weight: bold;
+}

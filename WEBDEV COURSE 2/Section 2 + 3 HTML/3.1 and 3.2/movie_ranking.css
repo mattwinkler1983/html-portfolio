@@ -1,4 +1,8 @@
 body {
     background-color: lightblue;
-    color: orange;
+    color: red;
+}
+img {
+    width: 100px;
+    height: auto;
 }
